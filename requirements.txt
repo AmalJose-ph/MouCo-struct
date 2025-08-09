@@ -3,3 +3,4 @@ numpy
 pyautogui
 flask
 flask-socketio
+gunicorn
